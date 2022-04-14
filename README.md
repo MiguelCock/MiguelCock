@@ -1,16 +1,17 @@
-### Hi there 👋
-
-<!--
-**MiguelCock/MiguelCock** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<meta charset = "UTF-8">
+<h1><b>Welcome To My GitHub</b></h1>
+<ul>
+  <li>Hello my name is Miguel Cock.</li>
+  <li>I am Systems Ingineer at EAFIT university.</li>
+  <li>I know spanish, english and started learning french.</li>
+  <li>The programming languajes that i know or i am learning are:
+    <ul>
+      <li>Python</li>
+      <li>Java</li>
+      <li>C++</li>
+      <li>HTML</li>
+      <li>CSS</li>
+      <li>JS</li>
+    </ul>
+  </li>
+</ul>
