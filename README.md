@@ -1,26 +1,21 @@
-<meta charset = "UTF-8">
-<h1><b>Welcome To My GitHub</b></h1>
-<ul>
-  <li>Hello my name is Miguel Angel Cock Cano.</li>
-  <li>I am a Systems Ingineer at EAFIT university.</li>
-  <li>My main languaje is spanish and i am fluent on english, i have practice a little french.</li>
-  <li>The programming languajes that i like the most are:
-    <ul>
-      <li style="color: rgb(88, 79, 252)">C</li>
-      <li style="color: rgb(245, 121, 77)">Rust</li>
-      <li style="color: rgb(79, 186, 252)">GO</li>
-      <li style="color: rgb(88, 79, 252)">C++</li>
-    </ul>
-  </li>
-  <li>The programming languajes that i know are:
-    <ul>
-      <li>C / C++</li>
-      <li>Rust</li>
-      <li>GO</li>
-      <li>Python</li>
-      <li>C#</li>
-      <li>HTML / CSS</li>
-      <li>JS / TS</li>
-    </ul>
-  </li>
-</ul>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MiguelCock&show_icons=true&theme=onedark"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelCock&layout=donut&theme=onedark"/>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,c,neovim,linux,go,js,ts,html,css,scala,htmx,nodejs,bun,zig,cpp,cs,unity,godot,mysql,arduino,bash,raspberrypi,aws,gcp,django,figma,matlab,mint,notion,obsidian,py,replit,java,linkedin" />
+  </a>
+</p>
+
+<!--
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
+-->
