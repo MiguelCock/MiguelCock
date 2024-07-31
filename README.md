@@ -1,5 +1,6 @@
 <p align="center">
   <img src="https://www.codewars.com/users/MiguelCock/badges/large"/>
+  <img height="50" alt="" src="https://komarev.com/ghpvc/?username=MiguelCock&style=flat&color=red"/>
 </p>
 
 <p align="center">
