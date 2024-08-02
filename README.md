@@ -1,6 +1,5 @@
 <p align="center">
-  <img src="https://www.codewars.com/users/MiguelCock/badges/large"/>
-  <img height="50" alt="" src="https://komarev.com/ghpvc/?username=MiguelCock&style=flat&color=red"/>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Tiny5&size=60&duration=3000&pause=3000&color=5D36F7&center=true&vCenter=true&width=800&height=100&lines=Miguel+Angel+Cock+Cano;Systems+engeneer" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -18,10 +17,10 @@
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=MiguelCock&theme=onedark&hide_border=true&border_radius=5&card_width=800">
 </p>
 
-<!--
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
+  <img src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=MiguelCock&theme=halloween"/>
 </p>
--->
+
+<p align="center">
+  <img height="50" alt="" src="https://komarev.com/ghpvc/?username=MiguelCock&style=flat&color=red"/>
+</p>
