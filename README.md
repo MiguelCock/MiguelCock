@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <img height=270 src="https://github-readme-stats.vercel.app/api?username=MiguelCock&include_all_commits=true&show_icons=true&rank_icon=percentile&card_width=300px&exclude_repo=github-readme-stats&theme=onedark&line_height=30&custom_title=MiguelCock%27s+Github+stats"/>
-  <img height=270 src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelCock&layout=donut&langs_count=10&hide=HTML&hide_title=true&role=owner,collaborator&theme=onedark&size_weight=0.35&count_weight=0.65&card_width=310&custom_title=MiguelCock%27s+Language+stats&card_width=1px"/>
+  <img height=230 src="https://github-readme-stats.vercel.app/api?username=MiguelCock&include_all_commits=true&show_icons=true&rank_icon=percentile&card_width=300px&exclude_repo=github-readme-stats&theme=onedark&line_height=30&custom_title=MiguelCock%27s+Github+stats"/>
+  <img height=230 src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelCock&layout=donut&langs_count=10&hide=HTML&hide_title=true&role=owner,collaborator&theme=onedark&size_weight=0.35&count_weight=0.65&card_width=310&custom_title=MiguelCock%27s+Language+stats&card_width=1px"/>
 </p>
 
 <p align="center">
