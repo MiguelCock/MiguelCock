@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <img height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelCock&layout=donut&theme=onedark"/>
-  <img height="220" src="https://github-readme-stats.vercel.app/api?username=MiguelCock&show_icons=true&theme=onedark"/>
+  <img height="210" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelCock&layout=donut&theme=onedark"/>
+  <img height="210" src="https://github-readme-stats.vercel.app/api?username=MiguelCock&show_icons=true&theme=onedark"/>
 </p>
 
 <p align="center">
