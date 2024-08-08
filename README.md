@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelCock&layout=donut&theme=onedark"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=MiguelCock&show_icons=true&theme=onedark"/>
+  <img height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelCock&layout=donut&theme=onedark"/>
+  <img height="250" src="https://github-readme-stats.vercel.app/api?username=MiguelCock&show_icons=true&theme=onedark"/>
 </p>
 
 <p align="center">
@@ -21,6 +21,6 @@
   <img src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=MiguelCock&theme=halloween"/>
 </p>
 
-<p align="center">
+<p align="right">
   <img height="50" alt="" src="https://komarev.com/ghpvc/?username=MiguelCock&style=flat&color=red"/>
 </p>
