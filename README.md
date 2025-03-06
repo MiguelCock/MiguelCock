@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=zig,scala,lua,c,cpp,go,py,nodejs,bun,js,ts,html,css,htmx,django,unity,godot,mysql,bash,aws,gcp,md,latex,notion,obsidian,replit,nix,neovim,mint,linux,,,,,,,git,github,linkedin,docker" />
+    <img src="https://skillicons.dev/icons?i=zig,scala,lua,rust,c,cpp,go,py,nodejs,bun,js,ts,html,css,htmx,django,unity,godot,mysql,bash,aws,gcp,md,latex,notion,obsidian,replit,nix,neovim,mint,,,,,,linux,git,github,linkedin,docker" />
   </a>
 </p>
 
