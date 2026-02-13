@@ -26,7 +26,7 @@ I build both **backend** and **frontend** systems: APIs, databases, and modern w
 
 <p align="center">
   <a href="https://nice-readme.vercel.app/top-langs" target="_blank" rel="noopener noreferrer">
-    <img src="https://helio-github-stats.vercel.app/api/top-langs?username=MiguelCock&layout=compact&stats_format=percentages&theme=dark&hide_border=true&border_radius=4.5&card_width=466&locale=pt-br&custom_title=Most+used+languajes&langs_count=8" 
+    <img src="https://helio-github-stats.vercel.app/api/top-langs?username=MiguelCock&layout=compact&stats_format=percentages&theme=dark&hide_border=true&border_radius=4.5&card_width=466&locale=pt-br&custom_title=Most+used+languajes&langs_count=8&hide=html%2Ccss" 
          alt="Most used languages" 
          width="45%" 
          loading="lazy" />
@@ -38,7 +38,6 @@ I build both **backend** and **frontend** systems: APIs, databases, and modern w
          loading="lazy" />
   </a>
 </p>
-
 
 <p align="center">
   <a href="https://skillicons.dev">
