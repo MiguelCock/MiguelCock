@@ -11,10 +11,6 @@ I work in **cybersecurity** (Web penetration testing, threat analysis and secure
 On the side I make and study **game development** — prototypes, shaders and small engines.  
 I build both **backend** and **frontend** systems: APIs, databases, and modern web apps.
 
-- 🔭 Current: Web Pentester (day-to-day pentesting & security reviews)  
-- 🌱 Learning: advanced engine internals, shaders, Zig systems work  
-- ⚡ Fun: I prototype small games in LÖVE2D and experiment with raylib/OpenGL
-
 ## Skills
 
 **Security**
@@ -28,15 +24,19 @@ I build both **backend** and **frontend** systems: APIs, databases, and modern w
 
 ---
 
-## Experience
-**Web Pentester**
-- Web application security assessments, exploit discovery, and remediation guidance.
-
----
-
 <p align="center">
-  <a href="https://nice-readme.vercel.app/top-langs" target="_blank" rel="noopener noreferrer"><img src="https://helio-github-stats.vercel.app/api/top-langs?username=MiguelCock&layout=compact&stats_format=percentages&theme=dark&hide_border=true&border_radius=4.5&card_width=466&locale=pt-br&custom_title=Most+used+languajes&langs_count=8" alt="Most used languajes" width="466" height="auto" loading="lazy" /></a>
-  <a href="https://nice-readme.vercel.app/github-stats" target="_blank" rel="noopener noreferrer"><img src="https://helio-github-stats.vercel.app/api?username=MiguelCock&custom_title=GitHub+Stats&theme=darcula&title_color=006af5&text_color=97afc8&icon_color=56d29c&ring_color=2f80ed&border_color=e4e2e2&hide_border=true&locale=en&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=default&show_icons=true&include_all_commits=false&line_height=25&text_bold=true&disable_animations=false&number_format=short" alt="GitHub Stats" width="466" height="auto" loading="lazy" /></a>
+  <a href="https://nice-readme.vercel.app/top-langs" target="_blank" rel="noopener noreferrer">
+    <img src="https://helio-github-stats.vercel.app/api/top-langs?username=MiguelCock&layout=compact&stats_format=percentages&theme=dark&hide_border=true&border_radius=4.5&card_width=466&locale=pt-br&custom_title=Most+used+languajes&langs_count=8" 
+         alt="Most used languages" 
+         width="45%" 
+         loading="lazy" />
+  </a>
+  <a href="https://nice-readme.vercel.app/github-stats" target="_blank" rel="noopener noreferrer">
+    <img src="https://helio-github-stats.vercel.app/api?username=MiguelCock&custom_title=GitHub+Stats&theme=darcula&title_color=006af5&text_color=97afc8&icon_color=56d29c&ring_color=2f80ed&border_color=e4e2e2&hide_border=true&locale=en&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=default&show_icons=true&include_all_commits=false&line_height=25&text_bold=true&disable_animations=false&number_format=short" 
+         alt="GitHub Stats" 
+         width="45%" 
+         loading="lazy" />
+  </a>
 </p>
 
 
