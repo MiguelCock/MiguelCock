@@ -26,13 +26,13 @@ I build both **backend** and **frontend** systems: APIs, databases, and modern w
 
 <p align="center">
   <a href="https://nice-readme.vercel.app/top-langs" target="_blank" rel="noopener noreferrer">
-    <img src="https://helio-github-stats.vercel.app/api/top-langs?username=MiguelCock&layout=compact&stats_format=percentages&theme=dark&hide_border=true&border_radius=4.5&card_width=466&locale=pt-br&custom_title=Most+used+languajes&langs_count=8&hide=html%2Ccss" 
+    <img src="https://helio-github-stats.vercel.app/api/top-langs?username=MiguelCock&layout=compact&stats_format=percentages&theme=gruvbox&hide_border=true&border_radius=4.5&card_width=466&locale=pt-br&custom_title=Most+used+languajes&langs_count=8&hide=html%2Ccss" 
          alt="Most used languages" 
          width="45%" 
          loading="lazy" />
   </a>
   <a href="https://nice-readme.vercel.app/github-stats" target="_blank" rel="noopener noreferrer">
-    <img src="https://helio-github-stats.vercel.app/api?username=MiguelCock&custom_title=GitHub+Stats&theme=darcula&title_color=006af5&text_color=97afc8&icon_color=56d29c&ring_color=2f80ed&border_color=e4e2e2&hide_border=true&locale=en&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=default&show_icons=true&include_all_commits=false&line_height=25&text_bold=true&disable_animations=false&number_format=short" 
+    <img src="https://helio-github-stats.vercel.app/api?username=MiguelCock&custom_title=GitHub+Stats&theme=gruvbox&hide_border=true&locale=en&border_radius=4.5&card_width=466&hide_title=false&hide_rank=false&rank_icon=default&show_icons=true&include_all_commits=true&line_height=25&text_bold=true&disable_animations=false&number_format=short" 
          alt="GitHub Stats" 
          width="45%" 
          loading="lazy" />
