@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="280" viewBox="0 0 1120 280" role="img" aria-labelledby="title desc">
+  <title id="title">Miguel Angel Cock Cano — cybersecurity engineer and full-stack developer</title>
+  <desc id="desc">Terminal window with the prompt miguel@medellin:~$ whoami, the name Miguel Angel Cock Cano, the roles cybersecurity engineer and full-stack developer, and the line Exfil Security · Medellín, CO.</desc>
+
+  <defs>
+    <pattern id="scanlines" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="1" fill="#000000" opacity="0.018"/>
+    </pattern>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#1a7f37" stop-opacity="0.06"/>
+      <stop offset="1" stop-color="#1a7f37" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+
+  <rect x="1" y="1" width="1118" height="278" rx="10" fill="#ffffff" stroke="#d0d7de" stroke-width="1.5"/>
+  <path d="M1 11 A10 10 0 0 1 11 1 H1109 A10 10 0 0 1 1119 11 V46 H1 Z" fill="#f6f8fa"/>
+  <ellipse cx="210" cy="80" rx="320" ry="170" fill="url(#glow)"/>
+  <rect x="2" y="47" width="1116" height="231" rx="8" fill="url(#scanlines)"/>
+
+  <circle cx="30" cy="24" r="5.5" fill="#ff5f9e" opacity="0.75"/>
+  <circle cx="52" cy="24" r="5.5" fill="#e3b341" opacity="0.85"/>
+  <circle cx="74" cy="24" r="5.5" fill="#1a7f37" opacity="0.75"/>
+  <text x="100" y="29" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="14" fill="#57606a">miguel@medellin: ~/profile</text>
+  <text x="1090" y="29" text-anchor="end" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="12" fill="#8c959f">zsh</text>
+  <line x1="1" y1="46" x2="1119" y2="46" stroke="#d0d7de" stroke-width="1"/>
+
+  <text x="52" y="94" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="17"><tspan fill="#1a7f37">miguel@medellin</tspan><tspan fill="#57606a">:</tspan><tspan fill="#0969da">~</tspan><tspan fill="#57606a">$</tspan><tspan fill="#1f2328" dx="8">whoami</tspan></text>
+
+  <text x="52" y="167" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="52" font-weight="700" letter-spacing="1.3" fill="#1f2328">MIGUEL ANGEL COCK CANO</text>
+  <rect x="785" y="128" width="21" height="46" rx="1" fill="#1a7f37">
+    <animate attributeName="opacity" values="1;1;0;0;1" keyTimes="0;0.45;0.5;0.95;1" dur="1.2s" repeatCount="indefinite"/>
+  </rect>
+
+  <text x="52" y="207" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="20"><tspan fill="#1a7f37">cybersecurity engineer</tspan><tspan fill="#8c959f" dx="7">·</tspan><tspan fill="#0969da" dx="7">full-stack developer</tspan></text>
+
+  <circle cx="56" cy="237" r="4" fill="#1a7f37"/>
+  <text x="72" y="242" font-family="'JetBrains Mono','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="15"><tspan fill="#57606a">Exfil Security</tspan><tspan fill="#8c959f" dx="7">·</tspan><tspan fill="#57606a" dx="7">Medellín, CO</tspan></text>
+</svg>
