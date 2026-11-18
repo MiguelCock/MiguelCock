@@ -198,9 +198,9 @@ M.Sc. in Engineering (in progress, 2026–27) · Specialization in Software Deve
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MiguelCock/MiguelCock/output/snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MiguelCock/MiguelCock/output/snake-light.svg">
-    <img alt="Animated snake over the contribution graph" src="https://raw.githubusercontent.com/MiguelCock/MiguelCock/output/snake-dark.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MiguelCock/MiguelCock/output/snake-dark.svg?v=1">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MiguelCock/MiguelCock/output/snake-light.svg?v=1">
+    <img alt="Animated snake over the contribution graph" src="https://raw.githubusercontent.com/MiguelCock/MiguelCock/output/snake-dark.svg?v=1" width="100%">
   </picture>
 </p>
 
