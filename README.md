@@ -16,15 +16,15 @@
 
 ## $ whoami
 
-Cybersecurity engineer at **Exfil Security**, a US security company, working remotely from Medellín. I split my time between pentesting and building the internal tools around it.
+Cybersecurity engineer at **Exfil Security**, a US security company, working remotely from Medellín. I split my time between security testing and internal product work.
 
-I studied Systems Engineering at **EAFIT**, stayed for a specialization in software development, and I'm finishing a master's in engineering. Outside work I write C3 libraries, make small co-op games with LÖVE2D, and read language and graphics documentation for fun.
+I studied Systems Engineering at **EAFIT**, stayed for a specialization in software development, and I'm finishing a master's in engineering. I like turning real problems into working software — **Flutter** apps for accessibility, **Python** services on the backend, and **JavaScript/TypeScript** interfaces that stay clear and usable.
 
 **Now**
 
-- Pentesting and internal product work at **Exfil Security** (remote, US)
+- Security testing and internal product work at **Exfil Security** (remote, US)
 - Finishing an **M.Sc. in Engineering** at EAFIT
-- Writing **C3** libraries and building small **LÖVE2D** games
+- Building practical apps with **Flutter**, **Python**, and **TypeScript**
 
 ## $ ls ./stack
 
@@ -101,41 +101,6 @@ I studied Systems Engineering at **EAFIT**, stayed for a specialization in softw
   </tr>
 </table>
 
-## $ cat featured.projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/MiguelCock/4u">4U</a></h3>
-      <p>Accessible campus navigation for blind users. A Flutter app plus seven FastAPI microservices that correct phone GPS from 5–20 m to under 5 m using visual place recognition, Qdrant, and an unscented Kalman filter.</p>
-      <p><code>Flutter</code> <code>FastAPI</code> <code>PyTorch</code> <code>Qdrant</code> <code>AWS</code></p>
-      <sub><b>Lead full-stack developer</b> · Universidad Icesi · 2026</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/MiguelCock/TestTracker">TestTracker</a></h3>
-      <p>A local-first pentest workspace that replaces spreadsheets: encrypted scope, test cases, findings, evidence, review signatures, and audit history, plus PDF, DOCX, and XLSX reports.</p>
-      <p><code>Rust</code> <code>Tauri 2</code> <code>React 19</code> <code>SQLCipher</code> <code>Argon2id</code></p>
-      <sub><b>Designer &amp; developer</b> · 2026 · in development</sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/MiguelCock/yun">yun</a></h3>
-      <p>A canvas IDE written in C3. Files live as movable cards on an infinite grid, with tree-sitter highlighting for 30+ languages, LSP, global search, and a Vim-inspired keyboard flow.</p>
-      <p><code>C3</code> <code>raylib</code> <code>tree-sitter</code> <code>LSP</code></p>
-      <sub><b>Creator</b> · 2026 · open source</sub>
-    </td>
-    <td width="50%" valign="top">
-      <h3><a href="https://github.com/MiguelCock/FunctionalC3">FunctionalC3</a></h3>
-      <p>Functional programming for C3 slices: <code>map</code>, <code>filter</code>, <code>for_each</code>, <code>contains</code> and more, built with compile-time generics in pure C3.</p>
-      <p><code>C3</code> <code>generics</code></p>
-      <sub><b>Creator</b> · open source · 6 stars</sub>
-    </td>
-  </tr>
-</table>
-
-Also building: [lua54.c3l](https://github.com/MiguelCock/lua54.c3l) — Lua 5.4 bindings for C3 · [lua_space](https://github.com/MiguelCock/lua_space) — classic-inspired games in LÖVE2D.
-
 ## $ cat experience.log
 
 **Exfil Security** — Cybersecurity Engineer & Full-Stack Developer \
@@ -188,9 +153,9 @@ M.Sc. in Engineering (in progress, 2026–27) · Specialization in Software Deve
   </picture>
   <br><br>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=MiguelCock&amp;layout=compact&amp;langs_count=8&amp;hide=html%2Ccss&amp;locale=en&amp;custom_title=Most+Used+Languages&amp;disable_animations=true&amp;bg_color=05070a&amp;title_color=5df2a5&amp;text_color=d9e6ef&amp;border_color=1b2733&amp;border_radius=6&amp;card_width=460">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=MiguelCock&amp;layout=compact&amp;langs_count=8&amp;hide=html%2Ccss&amp;locale=en&amp;custom_title=Most+Used+Languages&amp;disable_animations=true&amp;bg_color=ffffff&amp;title_color=1a7f37&amp;text_color=1f2328&amp;border_color=d0d7de&amp;border_radius=6&amp;card_width=460">
-    <img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=MiguelCock&amp;layout=compact&amp;langs_count=8&amp;hide=html%2Ccss&amp;locale=en&amp;custom_title=Most+Used+Languages&amp;disable_animations=true&amp;bg_color=05070a&amp;title_color=5df2a5&amp;text_color=d9e6ef&amp;border_color=1b2733&amp;border_radius=6&amp;card_width=460" width="460">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=MiguelCock&amp;layout=compact&amp;langs_count=8&amp;hide=html%2Ccss%2Cc&amp;locale=en&amp;custom_title=Most+Used+Languages&amp;disable_animations=true&amp;bg_color=05070a&amp;title_color=5df2a5&amp;text_color=d9e6ef&amp;border_color=1b2733&amp;border_radius=6&amp;card_width=460">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs?username=MiguelCock&amp;layout=compact&amp;langs_count=8&amp;hide=html%2Ccss%2Cc&amp;locale=en&amp;custom_title=Most+Used+Languages&amp;disable_animations=true&amp;bg_color=ffffff&amp;title_color=1a7f37&amp;text_color=1f2328&amp;border_color=d0d7de&amp;border_radius=6&amp;card_width=460">
+    <img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=MiguelCock&amp;layout=compact&amp;langs_count=8&amp;hide=html%2Ccss%2Cc&amp;locale=en&amp;custom_title=Most+Used+Languages&amp;disable_animations=true&amp;bg_color=05070a&amp;title_color=5df2a5&amp;text_color=d9e6ef&amp;border_color=1b2733&amp;border_radius=6&amp;card_width=460" width="460">
   </picture>
 </p>
 
